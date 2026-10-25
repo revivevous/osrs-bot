@@ -1,0 +1,2 @@
+# osrs-bot
+Bot
